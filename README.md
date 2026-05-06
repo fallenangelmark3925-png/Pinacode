@@ -1,2 +1,3 @@
-# Pinacode
-Pinacode description 
+streamlit
+plotly
+pandas
